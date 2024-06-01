@@ -41,3 +41,4 @@ MVI A, D6h
 OUT CSR
 
 END
+ ![Screenshot (1)](https://github.com/TrajceStudent/Zadaca-8085/blob/main/slika%20zadaca%208085A.png)
